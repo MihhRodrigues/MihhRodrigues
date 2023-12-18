@@ -21,9 +21,11 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9d87&height=120&section=footer"/>
 
-![snake animation](https://github.com/MihhRodrigues/Mihhrodrigues/blob/output/github-contribution-grid-snake2.svg)
+
+![Snake animation](https://github.com/MihhRodrigues/MihhRodrigues/blob/output/github-contribution-grid-snake.svg)
 
 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MihhRodrigues&repo=MihhRodrigues&theme=react)](https://github.com/MihhRodrigues/MihhRodrigues)
 
 
 
