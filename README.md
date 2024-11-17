@@ -15,10 +15,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp; 
 
 ### Studying in this moment:
-![Scrum](https://img.shields.io/badge/-scrum-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Scrum](https://img.shields.io/badge/-scrum-0D1117?style=for-the-badge&logo=scrum&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=red&labelColor=0D1117)&nbsp; 
-![Cypress](https://img.shields.io/badge/-cypress-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Kanban](https://img.shields.io/badge/-kanban-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Cypress](https://img.shields.io/badge/-cypress-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117)&nbsp;
+![Kanban](https://img.shields.io/badge/-kanban-0D1117?style=for-the-badge&logo=kanban&labelColor=0D1117)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9d87&height=120&section=footer"/>
