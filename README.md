@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9d87&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mirella+Rodrigues;I'm+from+Brazil;I+Front+end+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mirella+Rodrigues;I'm+from+Brazil;I+QA+Engineer+Jr;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
   <div align="center">  
@@ -15,8 +15,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp; 
 
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Scrum](https://img.shields.io/badge/-scrum-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=red&labelColor=0D1117)&nbsp; 
+![Cypress](https://img.shields.io/badge/-cypress-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Kanban](https://img.shields.io/badge/-kanban-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9d87&height=120&section=footer"/>
